@@ -6,36 +6,37 @@ Além do projeto original desenvolvido durante o evento, estou personalizando um
 
 
 
-##Tecnologias
+## Tecnologias
 
-<ul>
-    <li><a href="https://reactjs.org/"><img src=assets/logos/react.svg/> React</a></li>
-    <li><a href="https://reactnative.dev/"><img src=assets/logos/react.svg/> React Native</a></li>
-    <li><a href="https://www.typescriptlang.org/"><img src=assets/logos/typescript.png/> Typescript</a></li>
-    <li><a href="https://zod.dev/"><img src=assets/logos/zod.svg/> zod</a></li>
-    <li><a href="https://www.prisma.io/"><img src=assets/logos/prisma.png />Prisma</a></li>
-    <li><a href="https://www.radix-ui.com/"><img src=assets/logos/radix.png />Radix</a></li>
-    <li><a href="https://tailwindcss.com/"><img src=assets/logos/tailwind.png />tailwindcss</a></li>
-</ul>
+| Tecnologia   |:link:|
+|--------------|---|
+| React        |<a href="https://reactjs.org/"><img src=assets/logos/react.svg width="20"/></a>|
+| React-Native |<a href="https://reactnative.dev/"><img src=assets/logos/react.svg width="20"/></a>|
+| Typescript   |<a href="https://www.typescriptlang.org/"><img src=assets/logos/typescript.png width="20"/></a>|
+| zod          |<a href="https://zod.dev/"><img src=assets/logos/zod.svg width="20"/></a>|
+| Radix        |<a href="https://www.radix-ui.com/"><img src=assets/logos/radix.png width="20"/></a>|
+| Tailwind     |<a href="https://www.typescriptlang.org/"><img src=assets/logos/typescript.png width="20"/></a>|
+| Fastify      |<a href="https://www.fastify.io/"><img src=assets/logos/fastify.png width="20"/></a>|
+| Prisma       |<a href="https://www.prisma.io/"><img src=assets/logos/prisma.png width="20"/></a>|
 
 
-##Visão do Projeto
+## Visão do Projeto
 
 <section class="container">
-    <h3>Página Inicial</h3>
+    <h4>Página Inicial</h3>
     <div class="screen">
-        <img src="assets/home.png" class="web"/>
-        <img src="assets/home-mobile.jpg" class="mobile"/>
+        <img src="assets/home.png" height="425"/>
+        <img src="assets/home-mobile.jpg"height="425"/>
     </div>
-    <h3>Criar Novo Hábito</h3>
+    <h4>Criar Novo Hábito</h3>
     <div class="screen">
-        <img src="assets/new-habit.png" />
-        <img src="assets/new-mobile.jpg" />
+        <img src="assets/new-habit.png"  height="425" />
+        <img src="assets/new-mobile.jpg"  height="425" />
     </div> 
 </section>
 
 
-<style>
+<!-- <style>
     
     ul {
         list-style-type: none;       
@@ -81,4 +82,4 @@ Além do projeto original desenvolvido durante o evento, estou personalizando um
         width: auto;
         height: auto;
     }
-</style>
+</style> -->
