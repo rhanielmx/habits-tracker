@@ -1,5 +1,5 @@
 # habits-tracker
-Projeto FullStack criado na 11º edição da Rocketseat NLW. Uma aplicação voltada a ajudar usuário a criar e monitorar novos hábitos que desejam seguir em suas rotinas. Foram desenvlvidas as versões web e mobile da aplicação durante o NLW Setup da Rocketseat.
+Projeto FullStack criado na 11º edição da Rocketseat NLW. Uma aplicação voltada a ajudar usuário a criar e monitorar novos hábitos que desejam seguir em suas rotinas. Foram desenvolvidas as versões web e mobile da aplicação durante o NLW Setup da Rocketseat.
 ```
 Além do projeto original desenvolvido durante o evento, estou personalizando um pouco adicionando autenticação e notificações push.
 ```
@@ -25,13 +25,13 @@ Além do projeto original desenvolvido durante o evento, estou personalizando um
 <section class="container">
     <h4>Página Inicial</h3>
     <div class="screen">
-        <img src="assets/home.png" height="425"/>
-        <img src="assets/home-mobile.jpg"height="425"/>
+        <img src="assets/home.png" height="300"/>
+        <img src="assets/home-mobile.jpg"height="300"/>
     </div>
     <h4>Criar Novo Hábito</h3>
     <div class="screen">
-        <img src="assets/new-habit.png"  height="425" />
-        <img src="assets/new-mobile.jpg"  height="425" />
+        <img src="assets/new-habit.png"  height="300" />
+        <img src="assets/new-mobile.jpg"  height="300" />
     </div> 
 </section>
 
