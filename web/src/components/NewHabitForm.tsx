@@ -45,7 +45,7 @@ export function NewHabitForm() {
             <input
                 type="text"
                 id="title"
-                placeholder="ex.:Exercírcios, dormir betm, etc..."
+                placeholder="ex.: Exercícios, dormir bem etc..."
                 className="p-4 rounded-lg mt-3 bg-zinc-800 text-white placeholder:text-zinc-400 focus:outline-none focus:ring-2 focus:ring-violet-600 focus:ring-offset-2 focus:ring-offset-zinc-900"
                 value={title}
                 onChange={event => setTitle(event.target.value)}
